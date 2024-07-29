@@ -1,0 +1,18 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+   @apply m-0 font-jost;
+  }
+}
+
+@layer components {
+  .bg-gradient-button {
+    background: linear-gradient(135deg, #6253E1, #04BEFE);
+  }
+}
+
+
