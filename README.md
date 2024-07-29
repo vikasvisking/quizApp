@@ -12,7 +12,7 @@ npm install
 
 ## Run the App
 
-```javascript
+```bash
 npm run dev
 ```
 
